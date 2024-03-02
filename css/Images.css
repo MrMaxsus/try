@@ -1,0 +1,48 @@
+body{	
+	background-color: lightskyblue;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif);
+    background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}	
+p{
+	font-size: 0.8in;
+	background-image: url(https://img.freepik.com/free-vector/colorful-watercolor-rainbow-background_125540-151.jpg?size=626&ext=jpg&ga=GA1.1.1788068356.1706486400&semt=ais);
+	background-size: cover;
+	color: orange;
+	text-align: center;
+}
+div{
+	height: 500px;
+	width: 500px;
+	margin: 20px;
+}
+#d1{
+	background-image: url(https://airlife.ua/wp-content/uploads/d28c6430e675bfcdbe68b1c2cac1bb56_resize_w_1200_h_.jpg);
+	background-size: cover;
+	border: ridge 20px brown;
+}
+#d2{
+	background-image: url(https://cfts.org.ua/imglib/_newimage/news/107964/1068.jpg);
+	border: solid 30px;
+	border-image: linear-gradient(yellow, blue) 30;
+}
+
+#img1{
+	display: block;
+	margin: auto;
+	width: 60%;
+	border-radius: 10% / 50%;
+	box-shadow: 10px 10px 50px skyblue;
+}
+#img2{
+	display: block;
+	margin: auto ;
+	width: 50%;
+	border-radius: 50% ;
+	box-shadow: 10px 10px 50px blue;
+}
+
+
+
